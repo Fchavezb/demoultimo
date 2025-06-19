@@ -7,8 +7,9 @@
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
-    "test": "test de pruebas",
-    "start": "node app.js"
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\"",
+     "build": "echo \"Nada que compilar\""
   },
   "keywords": [],
   "dependencies": {
